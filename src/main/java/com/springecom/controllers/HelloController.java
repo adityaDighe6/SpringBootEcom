@@ -3,6 +3,7 @@ package com.springecom.controllers;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 // this for testing purpose
+//add another comment
 @RestController
 public class HelloController {
 	@GetMapping("/home")
